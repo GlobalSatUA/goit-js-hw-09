@@ -16,3 +16,29 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.color-btn {
+  width: 90px;
+  height: 60px;
+  background-color: aliceblue;
+  font-size: large;
+}
+
+.btn-color {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap: 10px;
+}
+
+.timer {
+  display: flex;
+  gap: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 24;
+}
+
+.flatpickr-input {
+  margin-bottom: 20px;
+}
